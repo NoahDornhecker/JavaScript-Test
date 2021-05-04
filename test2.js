@@ -1,1 +1,3 @@
-alert("Beim drücken des Buttons geladen");
+function buttiwarhier() {
+	alert("butti war hier");
+}
